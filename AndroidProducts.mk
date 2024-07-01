@@ -16,8 +16,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lmodroid_pdx214.mk
-
-COMMON_LUNCH_CHOICES := \
-    lmodroid_pdx214-user \
-    lmodroid_pdx214-userdebug \
-    lmodroid_pdx214-eng
