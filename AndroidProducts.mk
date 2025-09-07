@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_pdx214.mk
+    $(LOCAL_DIR)/lmodroid_pdx214.mk
